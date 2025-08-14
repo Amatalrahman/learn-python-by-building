@@ -56,19 +56,46 @@ python palastine_cities.py
 
 When the game starts, a blank map of Palestine will appear.
 
+
+**1. Blank Map at the Start**
+
+<img width="1583" height="998" alt="Image" src="https://github.com/user-attachments/assets/af20994c-0617-471b-bfe9-c4781262b9c1" />
+
+
+
+
 Type the name of a city in the prompt.
+
 
 If correct, the city name will appear on the map in the right position.
 
-Type Exit to end the game and create a cities_tolearn.csv file with missed cities.
+
+**2. After Guessing Some Cities (Score Increased)**
+
+<img width="952" height="846" alt="Image" src="https://github.com/user-attachments/assets/c78e770c-d568-43a8-ac15-6cd56af073e4" />
+
 
 If you guess all cities, a congratulations message will appear.
 
+**3. After Guessing All Cities**
 
-##Example of cities_tolearn.csv
+<img width="1492" height="913" alt="Image" src="https://github.com/user-attachments/assets/ec3bd73d-a9ff-4fa9-8457-4c57c301670b" />
+
+Type Exit to end the game and create a cities_tolearn.csv file with missed cities.
+
+## Example of cities_tolearn.csv
 ```
 0,Haifa
 1,Acre
 2,Tiberias
 3,Nazareth
-...
+```
+ذذ
+
+## ❤️ Support & Contributions
+
+If you like this project, give it a ⭐ on GitHub — it really helps!
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+## ❤️ Final word
+Cities are like memories — if we don't keep naming them, they fade away. Let's keep Palestine alive in our hearts and maps. ❤️🍉
