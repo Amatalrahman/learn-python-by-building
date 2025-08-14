@@ -3,7 +3,7 @@ import pandas as pd
 from score import Score
 screen= Screen()
 screen.title("palastine cities 🍉")
-image="python_bootcamp\\palastine_cities\\خريطة-فلسطين_بدون_كتابه (1).gif"
+image="python_bootcamp\\palastine_cities\\map.gif"
 screen.addshape(image)
 #we have to add the image shape to the turtle screen first to be able to use it as a shape for a turtle
 turtle = Turtle(shape=image)
