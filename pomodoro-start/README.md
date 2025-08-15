@@ -13,7 +13,12 @@ Here, work isn’t just a timer… it’s a race against yourself 💪🔥
 
 ## 💡 The Concept
 
-[<img width="666" height="375" alt="Image" src="https://github.com/user-attachments/assets/17ee30a5-bc58-4057-92b2-118bc94973da" />](https://youtu.be/pPJfpVvRzWc)
+<p align="center">
+  <a href="https://youtu.be/pPJfpVvRzWc">
+    <img width="666" height="375" alt="Image" src="https://github.com/user-attachments/assets/17ee30a5-bc58-4057-92b2-118bc94973da" />
+  </a>
+</p>
+
 
 The Pomodoro technique breaks your work into intervals, usually 25 minutes, separated by short breaks. This app automates that process:
 
@@ -98,5 +103,6 @@ python pomodoro.py
 This app is your personal productivity coach. Every ✔️ is proof of your progress toward your goals 🎯.
 
 > Ready? Hit START and make every second count 💥
+
 
 
