@@ -33,6 +33,8 @@ The Pomodoro technique breaks your work into intervals, usually 25 minutes, sepa
 
 ## How It Works (Code Overview)
 
+[<img width="666" height="375" alt="Image" src="https://github.com/user-attachments/assets/17ee30a5-bc58-4057-92b2-118bc94973da" />](https://youtu.be/pPJfpVvRzWc)
+
 1. **`start_mechanism()`** – Starts a work/break session based on repetition count (`reps`).
 2. **`count_down(count)`** – Updates the timer every second using `window.after()` and triggers the next session when the count reaches 0.
 3. **`timer_reset()`** – Cancels any scheduled countdown, resets `reps`, and clears ✔️ marks.
@@ -96,3 +98,4 @@ python pomodoro.py
 This app is your personal productivity coach. Every ✔️ is proof of your progress toward your goals 🎯.
 
 > Ready? Hit START and make every second count 💥
+
