@@ -90,7 +90,24 @@ Type Exit to end the game and create a cities_tolearn.csv file with missed citie
 2,Tiberias
 3,Nazareth
 ```
-ذذ
+## 🚧 Challenges Faced
+
+One of the main challenges in building this game was that there was **no ready-made map of Palestine with city coordinates** available.  
+
+To solve this:
+
+1. I manually extracted the coordinates of each city by clicking on the map using this helper function:
+```python
+# Helper function to get coordinates by clicking on the map
+def get_mouse_click_coor(x, y):
+    print(x, y)
+
+screen.onscreenclick(get_mouse_click_coor)
+```
+I collected the coordinates into a Python dictionary.
+
+I converted that dictionary into a CSV file (palastine_cities.csv) to make it easier to load and process with pandas.
+ر
 
 ## ❤️ Support & Contributions
 
